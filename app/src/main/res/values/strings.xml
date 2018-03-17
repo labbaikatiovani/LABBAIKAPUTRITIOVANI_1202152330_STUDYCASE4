@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LABBAIKAPUTRITIOVANI_1202152330_STUDYCASE4</string>
+    <string-array name="nama_mahasiswa">
+        <item>Zayn Malik</item>
+        <item>Niall Horan</item>
+        <item>Harry Styles</item>
+        <item>Liam Payne</item>
+        <item>Louis Tomlinson</item>
+        <item>Jared Leto</item>
+        <item>Dylan O'Brien</item>
+        <item>Thomas Brodie-Sangster</item>
+        <item>Ben McKenzie</item>
+        <item>Chris Evan</item>
+        <item>Robert Downer Jr.</item>
+        <item>Benedict Cumberbatch</item>
+        <item>Martin Freeman</item>
+
+    </string-array>
+</resources>
